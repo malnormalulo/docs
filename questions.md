@@ -5,3 +5,4 @@
 * What happens if we reintroduce some of the complexities which Marx simplified out of his argument in Capital?
   * The distinction between simple and skilled labor
   * The regional and temporal variation of socially necessary labor time and/or simple average labor
+* What does it actually _mean_ for two things to "contradict" in a Hegelian dialectic? Is it logical mutual exclusion? Is it an opposition of causal direction?
