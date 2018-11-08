@@ -5,7 +5,7 @@ Areas of study don't seem to break down hierarchically very well. There's too mu
 - Effecting social change
   - Imagining economic alternatives
     - Bourgeois economics
-    - Marxian economics
+    - (Post-)Marxian economics
   - Marshalling groups of people into action
 - Meditation -- this can probably be subordinated to something higher order
   - Physical mindfulness
@@ -22,6 +22,7 @@ Areas of study don't seem to break down hierarchically very well. There's too mu
 - Playing chess
   - Standard openings and responses
   - Visualizing algebraic notation
+  - Standard mates
 - Conversing in Swedish
   - Vocabulary (producing)
   - Vocabulary (recognizing)
