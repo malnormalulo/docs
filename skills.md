@@ -15,9 +15,9 @@ UNTIL end of session
     reconsider approach to task
     reconsider decomposition
     reconsider measurement
-  rehearse single node & measure
+  rehearse problem area & measure
   IF proficient
-    move on to next problem
+    move on to next problem area
 unstructured appraisal
 ```
 
@@ -34,7 +34,7 @@ PERIODICALLY
       reconsider approach to task
       reconsider decomposition
       reconsider measurement
-  perform
+  perform & measure
 unstructured appraisal
 ```
 
