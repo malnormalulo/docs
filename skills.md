@@ -2,6 +2,43 @@ Some research (which I'm not bothering to cite, sue me) suggests engaging in "de
 
 Areas of study don't seem to break down hierarchically very well. There's too much interrelation. I'm going to focus instead on activities.
 
+# Learning procedure
+Practice:
+```
+identify new problems
+remove solved problems
+UNTIL end of session
+  IF problem area not well isolated
+    decompose
+    devise measurement
+  ELSE IF no improvements for several iterations
+    reconsider approach to task
+    reconsider decomposition
+    reconsider measurement
+  rehearse single node & measure
+  IF proficient
+    move on to next problem
+unstructured appraisal
+```
+
+Performance:
+```
+PERIODICALLY
+  identify new problems
+  remove solved problems
+  FOR EACH remaining problem
+    IF problem area not well isolated
+      decompose
+      devise measurement
+    ELSE IF no improvements for several iterations
+      reconsider approach to task
+      reconsider decomposition
+      reconsider measurement
+  perform
+unstructured appraisal
+```
+
+# Skills
 - Learning (WOW SO META)
   - Identifying skill gaps
   - Evaluating efficacy of practice
