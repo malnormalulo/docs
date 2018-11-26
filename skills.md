@@ -23,18 +23,17 @@ unstructured appraisal
 
 Performance:
 ```
-PERIODICALLY
-  identify new problems
-  remove solved problems
-  FOR EACH remaining problem
-    IF problem area not well isolated
-      decompose
-      devise measurement
-    ELSE IF no improvements for several iterations
-      reconsider approach to task
-      reconsider decomposition
-      reconsider measurement
-  perform & measure
+perform & measure
+identify new problems
+remove solved problems
+FOR EACH remaining problem
+  IF problem area not well isolated
+    decompose
+    devise measurement
+  ELSE IF no improvements for several iterations
+    reconsider approach to task
+    reconsider decomposition
+    reconsider measurement
 unstructured appraisal
 ```
 
@@ -51,6 +50,7 @@ unstructured appraisal
   - Physical mindfulness
     - Visualization
     - Body scan
+    - Focus exercise
   - Mental mindfulness
     - Noting
 - Physical self-defense
